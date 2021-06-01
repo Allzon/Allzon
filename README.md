@@ -1,9 +1,9 @@
 ## Oiii! Eu sou a Guilherme de jesus (Allzon)
  <div>
   <a href="https://github.com/Allzon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allzon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allzon&layout=compact&langs_count=16&theme=dracula"/>
-<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allzon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allzon&layout=compact&langs_count=16&theme=midnight-purple"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Allzon-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Allzon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
