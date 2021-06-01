@@ -13,7 +13,7 @@
   <img align="center" alt="Allzon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allzon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Allzon-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
-  
+  <img align="right" alt="Allzon-panda" height="150" width="auto" src="https://media.giphy.com/media/d7U9wE4REtinUIDeQ7/source.gif">
 </div>
   
   ##
