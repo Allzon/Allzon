@@ -23,16 +23,22 @@ I'm majoring in computer science, presently in the 6th semester. I have interest
   <img align="center" alt="Allzon-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
   <img align="right" alt="Allzon-panda" height="150" width="auto" src="https://media.giphy.com/media/d7U9wE4REtinUIDeQ7/source.gif">
 </div>
-  
+ 
   ##
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Allzon)](https://git.io/streak-stats)
+ 
+ <div style="display: inline_block">
+  
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gui_je&width=300)
+  
+ </div>
+             
   ##
  
 <div> 
   <a href="https://instagram.com/guilher_je" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: guilherme.ichiyon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-de-jesus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Allzon/Allzon/blob/output/github-contribution-grid-snake.svg)
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Allzon)](https://git.io/streak-stats)
  
 </div>
