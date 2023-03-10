@@ -25,6 +25,8 @@ I'm majoring in computer science, presently in the 6th semester. I have interest
 </div>
   
   ##
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Allzon)](https://git.io/streak-stats)
+  ##
  
 <div> 
   <a href="https://instagram.com/guilher_je" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
