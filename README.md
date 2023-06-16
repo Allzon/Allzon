@@ -1,10 +1,5 @@
 ## Hi! My name is Guilherme de jesus (Allzon)
 I'm majoring in computer science, presently in the 6th semester. I have interested in Functional programming and Web development mainly back-end, but with pretension in turns full stack.
- <div>
-  <a href="https://github.com/Allzon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allzon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allzon&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
  
 ### languages I work:
  <div style="display: inline_block"><br>
